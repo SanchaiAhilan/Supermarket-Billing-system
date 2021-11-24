@@ -17,14 +17,11 @@ The system includes a point of sale system also it manages Sellers, Admins and s
 
 ## Prerequisites
 To run the Application, you'll have to have these installed
-
-### JDK
+#### JDK
 Download and Install [JDK](https://www.oracle.com/java/technologies/downloads)
-
-### Apache Netbeans
+#### Apache Netbeans
 Download and Install [Apache Netbeans](https://netbeans.apache.org/download/index.html)
-
-### Apache Derby
+#### Apache Derby
 Download and Install [Apache Derby](https://db.apache.org/derby/derby_downloads.html)
 
 
