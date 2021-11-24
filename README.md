@@ -27,6 +27,8 @@ Download and Install [Apache Netbeans](https://netbeans.apache.org/download/inde
 ### Apache Derby
 Download and Install [Apache Derby](https://db.apache.org/derby/derby_downloads.html)
 
+
+## Run this Application
 ### Download and unzip contents from GitHub repo
 Download the [Supermarket Billing System](https://github.com/SanchaiAhilan/Supermarket-Billing-system/archive/master.zip) and unzip
 
